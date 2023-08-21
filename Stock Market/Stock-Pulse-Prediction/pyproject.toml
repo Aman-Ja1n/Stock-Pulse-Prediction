@@ -1,2 +1,0 @@
-[project.scripts]
-app.py = "streamlit run app.py.command_line:main"

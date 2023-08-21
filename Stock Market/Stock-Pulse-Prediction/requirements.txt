@@ -6,7 +6,7 @@ scikit-learn
 statsmodels
 pmdarima
 streamlit
-#sqlite3==3.35.4
+sqlite3
 yfinance
-#matplotlib
-#warnings
+matplotlib
+warnings

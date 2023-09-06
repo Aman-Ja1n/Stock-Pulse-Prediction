@@ -9,13 +9,13 @@ from preprocess import preprocessing
 import warnings
 warnings.filterwarnings("ignore")
 
-"# Stock Pulse Prediction App"
+"# Trade-Titan"
 "This is an app to predict the High and Low of the given Stock. You can select different stocks, intervals, periods from the sidebar. Feel free to experiment with different models"
 
 
 db = sq.connect('stocks.db')
 
-st.sidebar.info('Welcome to the Stock Pulse Prediction App. Choose your options below')
+st.sidebar.info('Welcome to the Trade-Titan. Choose your options below')
 st.sidebar.info("Created and designed by [Aman Jain](https://www.linkedin.com/in/aman-jain2003)")
 
 # get country
